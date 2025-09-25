@@ -8,7 +8,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Cursando [Análise e Desenvolvimento de Sistemas] | [ Universidade de Fortaleza | UNIFOR | ADS]
+🎓 Cursando Análise e Desenvolvimento de Sistemas | Universidade de Fortaleza | UNIFOR | ADS
 
 ✒️ Buscando aprimorar minhas habilidades em SQL, Java, JavaScript, HTML e CSS.
 
@@ -17,7 +17,6 @@
 **Tecnologias e Ferramentas**
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
-!
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
