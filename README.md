@@ -33,7 +33,7 @@
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoQ-Mateus&layout=compact&langs_count=30&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoQ-Mateus&layout=compact&langs_count=25&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoQ-Mateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
