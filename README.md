@@ -31,11 +31,9 @@
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
 ### GitHub Stats ⚡
-<div>
-<a href="https://github.com/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoQ-Mateus&layout=compact&langs_count=35&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoQ-Mateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 ### Entre em contato comigo! 📭
 <div>
