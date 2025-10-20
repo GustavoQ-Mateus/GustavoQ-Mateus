@@ -1,5 +1,5 @@
 
-# Oi, me chamo Gustavo Queiroz👋
+# Oi, me chamo Gustavo Queiroz Mateus👋
 
 ### Sobre mim
 
