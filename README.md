@@ -5,24 +5,9 @@
 
 💻 Dev Full Stack em Formação.
 
-EN |
-
-💻 Full Stack Developer in Training.
-
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
-
 🎓 Cursando Análise e Desenvolvimento de Sistemas | Universidade de Fortaleza | UNIFOR | ADS
 
-EN |
-
-🎓 Studying Systems Analysis and Development | University of Fortaleza | UNIFOR | SAD
-
 ✒️ Buscando aprimorar minhas habilidades em SQL, Java, JavaScript, HTML e CSS.
-
-EN |
-
-✒️ Looking to improve my skills in SQL, Java, JavaScript, HTML, and CSS.
 
 ### Atualmente estudando... 🔧
 
