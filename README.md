@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gustavo Queiroz Mateus 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full-Stack</b> · TypeScript · Python · Java · React · Node.js<br/>
+  <b>Desenvolvedor Full-Stack</b> · TypeScript · Python · PHP · Java · React · Vue · Node.js<br/>
   <i>Construindo software de ponta a ponta — do requisito ao deploy em produção.</i>
 </p>
 
@@ -15,17 +15,18 @@
 
 ### 🇧🇷 Sobre mim
 
-Desenvolvedor full-stack que atua no ciclo completo de desenvolvimento, da análise de requisitos ao deploy e à manutenção em produção. Trabalho no back-end com **Node.js, NestJS, FastAPI e Java (Spring Boot)** e no front-end com **React, Next.js e Angular**, sempre com **TypeScript**. Aplico **Clean Architecture, SOLID e Design Patterns** no dia a dia e uso **Claude Code, Cursor e Codex** como padrão no meu workflow. Graduando em Análise e Desenvolvimento de Sistemas pela **UNIFOR (PMG 9.4)**.
+Desenvolvedor full-stack que atua no ciclo completo de desenvolvimento, da análise de requisitos ao deploy e à manutenção em produção. Trabalho no back-end com **Node.js, NestJS, FastAPI, Java (Spring Boot) e PHP (Laravel)** e no front-end com **React, Next.js, Angular e Vue.js**, com **TypeScript**. Aplico **Clean Architecture, SOLID e Design Patterns** no dia a dia e uso **Claude Code, Cursor e Codex** como padrão no meu workflow. Graduando em Análise e Desenvolvimento de Sistemas pela **UNIFOR (PMG 9.4)**.
 
 ### 🇺🇸 About me
 
-Full-stack developer working across the entire development cycle, from requirements analysis to production deployment and maintenance. On the back-end I work with **Node.js, NestJS, FastAPI and Java (Spring Boot)**, and on the front-end with **React, Next.js and Angular**, always with **TypeScript**. I apply **Clean Architecture, SOLID and Design Patterns** daily and use **AI-assisted tooling** (Claude Code, Cursor, Codex) as part of my standard workflow. Currently pursuing a degree in Systems Analysis & Development at **UNIFOR (GPA 9.4/10)**.
+Full-stack developer working across the entire development cycle, from requirements analysis to production deployment and maintenance. On the back-end I work with **Node.js, NestJS, FastAPI, Java (Spring Boot) and PHP (Laravel)**, and on the front-end with **React, Next.js, Angular and Vue.js**, with **TypeScript**. I apply **Clean Architecture, SOLID and Design Patterns** daily and use **AI-assisted tooling** (Claude Code, Cursor, Codex) as part of my standard workflow. Currently pursuing a degree in Systems Analysis & Development at **UNIFOR (GPA 9.4/10)**.
 
 ---
 
 ### 🎯 Áreas de foco · Focus areas
 
 - **APIs REST escaláveis** e integração front-back de ponta a ponta
+- **Manutenção evolutiva e corretiva** de sistemas em produção, incluindo bases legadas
 - **Arquitetura orientada a eventos** com mensageria e workers assíncronos
 - **Bancos relacionais** (PostgreSQL, MySQL) com ORM, cache e modelagem de dados
 - **CI/CD, containers e deploy em cloud** com monitoramento em produção
@@ -38,15 +39,18 @@ Full-stack developer working across the entire development cycle, from requireme
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
