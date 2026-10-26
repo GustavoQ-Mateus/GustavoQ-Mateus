@@ -8,14 +8,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-queiroz-mateus-935255283"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gustavoqueirozunifor@edu.unifor.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Fortaleza,%20CE%20—%20Brasil-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
+  <img src="https://img.shields.io/badge/Fortaleza,%20CE,%20Brasil-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
 </p>
 
 ---
 
 ### 🇧🇷 Sobre mim
 
-Desenvolvedor full stack com experiência prática em aplicações web em produção, do requisito à sustentação, com foco em **.NET (C#) e Python**. No back-end trabalho com C#/.NET, Python (FastAPI), Node.js, NestJS e Java (Spring Boot), construindo APIs REST e microsserviços sobre bancos SQL e NoSQL. No front-end atuo com React, TypeScript, Vite, Next.js e Angular. Participo atualmente da migração de um sistema em produção de Python para C#/.NET com Entity Framework.
+Desenvolvedor full stack com experiência prática em aplicações web em produção, do requisito à sustentação, com foco em **.NET (C#) e Python**. No back-end trabalho com C#/.NET, Python (FastAPI), Node.js, NestJS e Java (Spring Boot), construindo APIs REST e microsserviços sobre bancos SQL e NoSQL. No front-end atuo com React, TypeScript, Vite, Next.js e Angular. Participei da migração completa de um sistema em produção de Python para C#/.NET 10 com Clean Architecture e Dapper.
 
 Além de entregar software, construo IA aplicada em produção: agentes inteligentes em Python integrando LLMs e automações que substituem trabalho manual. Meu workflow é AI-first, com Claude Code e Cursor no terminal todos os dias, sempre avaliando criticamente o código gerado.
 
@@ -27,7 +27,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNIFOR, PMG 9.4. Aberto
 
 ### 🇺🇸 About me
 
-Full-stack developer with hands-on experience in production web applications, from requirements to maintenance, focused on **.NET (C#) and Python**. On the back end I work with C#/.NET, Python (FastAPI), Node.js, NestJS and Java (Spring Boot), building REST APIs and microservices over SQL and NoSQL databases. On the front end I use React, TypeScript, Vite, Next.js and Angular. I am currently taking part in migrating a production system from Python to C#/.NET with Entity Framework.
+Full-stack developer with hands-on experience in production web applications, from requirements to maintenance, focused on **.NET (C#) and Python**. On the back end I work with C#/.NET, Python (FastAPI), Node.js, NestJS and Java (Spring Boot), building REST APIs and microservices over SQL and NoSQL databases. On the front end I use React, TypeScript, Vite, Next.js and Angular. I took part in the full migration of a production system from Python to C#/.NET 10 with Clean Architecture and Dapper.
 
 Beyond shipping software, I build applied AI in production: intelligent agents in Python integrating LLMs and automations that replace manual work. My workflow is AI-first, with Claude Code and Cursor, always reviewing generated code critically.
 
@@ -43,7 +43,7 @@ Pursuing a degree in Systems Analysis and Development at UNIFOR, GPA 9.4. Open t
 
 | Projeto | Stack | O que é |
 |---|---|---|
-| [**PRDAL Careers**](https://github.com/GustavoQ-Mateus/prdal-careers) | React · TS · NestJS · Python/FastAPI · C#/.NET | Plataforma que gera currículo tailored por vaga e mede score ATS, arquitetura poliglota com copiloto de IA |
+| [**PRDAL Careers**](https://github.com/GustavoQ-Mateus/prdal-careers-infra) | React · TS · NestJS · Python/FastAPI · C#/.NET · AWS | Plataforma que gera currículo tailored por vaga e mede score ATS, em microsserviços com um repositório por unidade: [api](https://github.com/GustavoQ-Mateus/prdal-careers-api), [worker](https://github.com/GustavoQ-Mateus/prdal-careers-worker), [web](https://github.com/GustavoQ-Mateus/prdal-careers-web), [ai-service](https://github.com/GustavoQ-Mateus/prdal-careers-ai-service), [doc-service](https://github.com/GustavoQ-Mateus/prdal-careers-doc-service) |
 | [**Liquida**](https://github.com/GustavoQ-Mateus/Liquida) | C#/.NET 8 · Angular | Pipeline de liquidação de pagamentos, rate limit, RabbitMQ + DLQ, consumer idempotente |
 | [**BankCore**](https://github.com/GustavoQ-Mateus/bankcore) | Go | Núcleo bancário: contas, transferências atômicas, ledger append-only, concorrência e integridade monetária |
 
