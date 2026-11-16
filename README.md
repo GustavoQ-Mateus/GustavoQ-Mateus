@@ -19,7 +19,7 @@ Desenvolvedor full stack com experiência em aplicações web em produção, do 
 
 Construo IA aplicada: agentes em Python integrando LLMs, RAG com embeddings e automações que substituem trabalho manual. Meu fluxo de desenvolvimento é spec-driven, com Claude Code e Codex no dia a dia, sempre revisando criticamente o código gerado.
 
-Sou responsável técnico pelo sistema corporativo da **Saraiva Leão**, um ERP/CRM em produção com atendimento por WhatsApp, extração de dados de documentos e agentes de IA. Nos projetos pessoais exploro arquitetura orientada a eventos, mensageria, consistência em sistemas financeiros e infraestrutura na AWS com Terraform.
+Sou responsável técnico por um **ERP/CRM corporativo em produção**, com atendimento por WhatsApp, extração de dados de documentos e agentes de IA, e desenvolvo a nova versão dele em Python e C#/.NET com LLMs. Nos projetos pessoais exploro arquitetura orientada a eventos, mensageria, consistência em sistemas financeiros e infraestrutura na AWS com Terraform.
 
 Graduando em Análise e Desenvolvimento de Sistemas pela UNIFOR, PMG 9.4. Aberto a oportunidades remotas.
 
@@ -29,7 +29,7 @@ Full-stack developer with experience in production web applications, from requir
 
 I build applied AI: Python agents integrating LLMs, RAG with embeddings and automations that replace manual work. My workflow is spec-driven, with Claude Code and Codex every day, always reviewing generated code critically.
 
-I am the technical owner of the corporate system at **Saraiva Leão**, a production ERP/CRM with WhatsApp support, document data extraction and AI agents. In personal projects I explore event-driven architecture, messaging, consistency in financial systems and AWS infrastructure with Terraform.
+I am the technical owner of a **production corporate ERP/CRM**, with WhatsApp support, document data extraction and AI agents, and I am building its new version in Python and C#/.NET with LLMs. In personal projects I explore event-driven architecture, messaging, consistency in financial systems and AWS infrastructure with Terraform.
 
 Pursuing a degree in Systems Analysis and Development at UNIFOR, GPA 9.4. Open to remote opportunities.
 
